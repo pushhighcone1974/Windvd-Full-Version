@@ -271,4 +271,4 @@ This repository serves as the official landing page for WinDVD. The software is 
 **Get the most recent version of WinDVD today!**
 
 ---
-**Last updated:** 2026-09-24 15:33:32 UTC
+**Last updated:** 2026-09-24 19:33:50 UTC
